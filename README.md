@@ -6,7 +6,7 @@
 
 Este repositório contém a documentação e execução dos testes para a funcionalidade "Acesso a barra de navegação" do site [4alltests.com.br](https://4alltests.com.br). E tem como premissa o registro dos casos com sucesso e sem sucesso.
 
-![1](https://github.com/ancgci/4AllTestdesafios/blob/main/Imagens/SITE4ALL.jpg)
+![1](https://github.com/ancgci/4AllTestdesafios/blob/main/SITE4ALL.jpg)
 
 ## Funcionalidade: Acesso a Barra de Navegação
 
@@ -56,7 +56,7 @@ A fim de acessar a página home do site "4alltests.com.br", como usuário quero 
 
 ## Execução dos Testes
 
-![1](https://github.com/ancgci/4AllTestdesafios/blob/main/Imagens/registros.png)
+![1](https://github.com/ancgci/4AllTestdesafios/blob/main/registros.png)
 
 ### Resultados
 
