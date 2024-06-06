@@ -60,7 +60,7 @@ A fim de acessar a página home do site "4alltests.com.br", como usuário quero 
 
 ### Resultados
 
-Aqui estão os resultados da execução dos testes para cada cenário, incluindo capturas de tela e links para vídeos demonstrativos:
+Aqui estão os resultados da execução dos testes para cada cenário, incluindo os links para vídeos demonstrativos:
 
 #### Cenário 1: Acessar a página Home
 - **Resultado:** [Assistir no Google Drive](https://drive.google.com/file/d/1c77UpE-fHm1OTWBEzOI8wv_cYFjfrnxT/view?usp=sharing)
